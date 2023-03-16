@@ -1,0 +1,39 @@
+
+
+
+
+
+p { 
+    font-size: 16px;;
+    color: rgb(72, 196, 155);
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+body { 
+    background-color: rgb(69, 69, 69)
+}
+
+
+.blue {
+    color: rgb(30, 113, 207);
+        font-size: large;
+        font-style:italic;
+}
+
+.pehli {
+    color: rgb(126, 149, 211);
+     font-style:italic ;
+}
+.h11 {
+    color: rgb(211, 124, 124);
+}
+.hi{
+    color: rgb(231, 231, 237);
+    font-size: larger;
+}
+.highlight{
+    color: aqua;
+
+}
