@@ -1,23 +1,35 @@
 
+html {
+   
 
+} 
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#001133;
+    color:#FFFFFF ; 
+}
+H1 {
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    dashed;
+}
 
 
 
 p { 
     font-size: 16px;;
-    color: rgb(72, 196, 155);
+    color: rgb(70, 183, 146);
+  
 }
 h1 {
     color: rgb(0, 0, 0);
     font-size: large;
 }
-body { 
-    background-color: rgb(69, 69, 69)
-}
+
 
 
 .blue {
-    color: rgb(30, 113, 207);
+    color: rgb(30, 207, 136);
         font-size: large;
         font-style:italic;
 }
@@ -37,3 +49,12 @@ body {
     color: aqua;
 
 }
+a {
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+.p1 {
+    border: #FFFFFF
+    dashed;
+}
+  
