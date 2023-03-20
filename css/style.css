@@ -11,9 +11,9 @@ body {
 H1 {
     font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-p { 
+.p1 { 
     font-size: 16px;;
-    color: rgb(70, 183, 146)}
+    color: rgb(5, 205, 138)}
 h1 {
     color: rgb(0, 0, 0);
     font-size: large;
@@ -22,14 +22,32 @@ h1 {
 
 
 .blue {
-    color: rgb(30, 207, 136);
+    color: rgb(27, 220, 143);
         font-size: large;
         font-style:italic;
+    border: #d2a8a8
+    solid;
+    padding: 2ch;
+    width: 50ch;
+    border-radius: 2ch;
+ border-width:1ch;
 }
 
+
 .pehli {
+    font-family: 'Courier New', Courier, monospace;
     color: rgb(126, 149, 211);
-     font-style:italic ;
+    font-style: italic;
+    border: #FFFFFF
+     dashed;
+    border-style: solid;
+    width: 50ch;
+    border-color: antiquewhite;
+    border-radius: 10px;
+    padding: 2ch;
+    border-width: 1ch;
+    padding-bottom: 3px;
+    padding-top: 3px;
 }
 .h11 {
     color: rgb(211, 124, 124);
@@ -47,8 +65,21 @@ a {
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
 }
-.p1 {
-    border: #FFFFFF
+
+.para {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(215, 178, 129);
+    border: #cdff06
     dashed;
+    border-style: outset;
+    border-radius: 10px;
+    width: 50ch;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-top-width: 6px;
+    border-bottom-width: 6px;
+    border-right-width: 6px;
+    border-left-width: 6px;
 }
-  
