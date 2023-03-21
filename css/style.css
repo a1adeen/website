@@ -1,7 +1,5 @@
-
-html {
-   
-
+* {
+    box-sizing: border-box;
 } 
 body {
     font-family: 'Courier New', Courier, monospace;
@@ -50,7 +48,15 @@ h1 {
     padding-top: 3px;
 }
 .h11 {
-    color: rgb(211, 124, 124);
+    color: rgb(167, 105, 105);
+    border: #d2a8a8 solid;
+    border-radius: 4px;
+    padding: 2ch;
+    border-width: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    
+
 }
 .hi{
     color: rgb(231, 231, 237);
@@ -82,4 +88,15 @@ a {
     border-bottom-width: 6px;
     border-right-width: 6px;
     border-left-width: 6px;
+    
+}
+.law {
+    border :3px solid #d2a8a8 ;
+        width:max-content;
+        
+        text-align: center;
+        font-size: 30px;
+        white-space: nowrap;
+    padding: 5px;
+    border-radius: ;
 }
